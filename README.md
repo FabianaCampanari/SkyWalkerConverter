@@ -1,13 +1,18 @@
-🪐 SkyWalker Converter
+🪐 SKYWALKER CONVERTER
 
 🌟 Light Years to Kilometers or Meters Converter. 
-   Made for people like me who dream of reaching Sirius or traveling through Galaxies.
-   Please fasten your seatbelt and travel safe! 🌟
+
+🌟 Made for people like me who dream of reaching Sirius or traveling through Galaxies.
+ 
+🌟 Please fasten your seatbelt and travel safe ! 
+
+
 
 🤎 < made with love & joy />
 
 
 📌 SPECS:
+
 
 💫 Conditionals:
 
