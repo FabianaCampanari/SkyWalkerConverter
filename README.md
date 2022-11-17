@@ -26,4 +26,4 @@
 
 ✨ Used Functions to integrate HTML and JS.
 
-✨ HTML | CSS | JavaScript | Figma Photoshop | Illustrator
+✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator
