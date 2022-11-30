@@ -35,12 +35,11 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________
 
-🔴 Copyright (c) 2022, Fabiana Campanari. 
-   All rights reserved.
+🔅 Copyright (c) 2022 Fabiana Campanari.
+
+🔅 Todos os direitos Resevados (c) 2022 Fabiana Campanari.
 
 
-🔴 Copyright (c) 2022, Fabiana Campanari.
-   Todos os direitos reservados.
 
 
 
