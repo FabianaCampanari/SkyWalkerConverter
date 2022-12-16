@@ -2,7 +2,7 @@
 
 ✨ Light Years to Kilometers or Meters Converter. 
 
-Made for people like me who dream reach Sirius or traveling through Galaxies.
+✨ Made for people like me who dream reach Sirius or traveling through Galaxies.
  
 ✨ Please fasten your seatbelt and travel safe ! 
 
