@@ -12,6 +12,7 @@
 
 <p align="center">
 <img src="" />
+</p>
 
 ![SkyWalker Thumb](https://user-images.githubusercontent.com/113218619/213477274-790bc373-7cd2-46a3-957d-ed5c65a99dd7.png)
 
