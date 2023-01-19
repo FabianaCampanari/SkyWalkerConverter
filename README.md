@@ -1,4 +1,4 @@
-# <p align="center"> 🪐 SKYWALKER CONVERTER </p>
+# <p align="center"> 🪐 SkyWalker Converter </p>
 
 ✨ Light Years to Kilometers or Meters Converter. 
 
