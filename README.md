@@ -10,7 +10,7 @@
 
 #
 
-![SkyWalker Thumb](https://user-images.githubusercontent.com/113218619/213474413-6d2a68e0-fd94-4762-80f2-9e9be32a6ada.png)
+
 
 
 #
