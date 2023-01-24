@@ -15,7 +15,7 @@
 </p>
 
 
-![SkyWalker Thumb](https://user-images.githubusercontent.com/113218619/214439916-a363bb20-9715-4803-9aef-eace2c23abf1.png)
+![SkyWalker Thumb]()
 
 
 
