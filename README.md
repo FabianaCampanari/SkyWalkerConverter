@@ -15,7 +15,6 @@
 </p>
 
 #
-_
 
 🚀 https://fabianacampanari.github.io/SkyWalkerConverter/
 
