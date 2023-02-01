@@ -6,7 +6,7 @@
  
 ✨ Please fasten your seatbelt and travel safe ! 
 
- <p align="center"> < made with love & joy /> 🤎
+ <p align="center"> < made with love & joy /> 🤎 </p>
 
 #
 
