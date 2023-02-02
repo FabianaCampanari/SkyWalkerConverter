@@ -36,7 +36,7 @@
 
 ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator
 
-________________________________________________________________________________
+______________________________________________________________________________
 
 
 ⚖︎ This project is licensed under the Fabiana Campanari License.
