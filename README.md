@@ -21,7 +21,7 @@
 #
 
 
-<p align="center"> 📌 SPECS:
+<p align="center"> 📌 SPECS: </p>
 
 
 <p align="center"> 💫 Conditionals:
