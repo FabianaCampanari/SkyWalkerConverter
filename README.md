@@ -28,7 +28,7 @@
 
 <p align="center"> ✨ if / else </p>
 
-<p align="center"> 💫 Commands:
+<p align="center"> 💫 Commands: </p>
 
 <p align="center"> ✨ parseFloat (value) and parselnt (value)
 
