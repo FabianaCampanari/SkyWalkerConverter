@@ -32,7 +32,7 @@
 
 <p align="center"> ✨ parseFloat (value) and parselnt (value) </p>
 
-<p align="center"> ✨ Used Functions to integrate HTML and JS
+<p align="center"> ✨ Used Functions to integrate HTML and JS </p>
 
 <p align="center"> ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator
 
