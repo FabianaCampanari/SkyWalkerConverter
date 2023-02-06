@@ -26,7 +26,7 @@
 
 <p align="center"> 💫 Conditionals: </p>
 
-<p align="center"> ✨ if / else
+<p align="center"> ✨ if / else </p>
 
 <p align="center"> 💫 Commands:
 
