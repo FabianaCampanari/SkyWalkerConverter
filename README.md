@@ -30,7 +30,7 @@
 
 <p align="center"> 💫 Commands:
 
-<p align="center"> ✨ parseFloat (value) and parselnt (value).
+<p align="center"> ✨ parseFloat (value) and parselnt (value)
 
 <p align="center"> ✨ Used Functions to integrate HTML and JS.
 
