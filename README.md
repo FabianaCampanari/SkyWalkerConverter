@@ -34,7 +34,7 @@
 
 <p align="center"> ✨ Used Functions to integrate HTML and JS.
 
-✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator
+<p align="center"> ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator
 
 #
 
