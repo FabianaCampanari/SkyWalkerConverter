@@ -24,7 +24,7 @@
 <p align="center"> 📌 SPECS: </p>
 
 
-<p align="center"> 💫 Conditionals:
+<p align="center"> 💫 Conditionals: </p>
 
 <p align="center"> ✨ if / else
 
