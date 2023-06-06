@@ -21,19 +21,19 @@
 
 #
 
-<p align="center"> 📌 SPECS: </p>
+<p align="center"> 📌 SPECS:
 
-<p align="center"> 💫 Conditionals: </p>
+✨ Conditionals:
 
-<p align="center"> ✨ if / else </p>
+✨ if / else
 
-<p align="center"> 💫 Commands: </p>
+✨ Commands: 
+ 
+✨ parseFloat (value) and parselnt (value)
 
-<p align="center"> ✨ parseFloat (value) and parselnt (value) </p>
+✨ Used Functions to integrate HTML and JS 
 
-<p align="center"> ✨ Used Functions to integrate HTML and JS </p>
-
-<p align="center"> ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator </p>
+ ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
 
 #
 
