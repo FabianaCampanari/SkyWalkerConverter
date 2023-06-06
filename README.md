@@ -38,7 +38,6 @@
 #
  
 <p align="center">  
-[https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/280a293f-7176-4f0a-9016-3083333c67a0](url)]
 
 #
 
