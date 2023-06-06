@@ -17,7 +17,7 @@
 
 #
 
-<p align="center"> 🚀 https://fabianacampanari.github.io/SkyWalkerConverter/ </p>
+<p align="center"> 🚀 "https://fabianacampanari.github.io/SkyWalkerConverter/ "</p>
 
 #
 
@@ -36,7 +36,12 @@
  ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
 
 #
+ 
+ <p align="center">
+ <img src=" https://github.com/FabianaCampanari/SkyWalkerConverter/issues/388#issue-1743052463" />
 
+
+#
 
 #####  <p align="center"> ⚖︎ This project is licensed under the Apache License 2.0. </p>
 
