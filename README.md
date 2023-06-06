@@ -17,7 +17,7 @@
 
 #
 
-<p align="center"> 🚀 "https://fabianacampanari.github.io/SkyWalkerConverter/ "</p>
+<p align="center"> 🚀 https://fabianacampanari.github.io/SkyWalkerConverter/  </p>
 
 #
 
@@ -33,13 +33,13 @@
 
 ✨ Used Functions to integrate HTML and JS 
 
- ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
+✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
 
 #
  
- <p align="center">
- <img src=" https://github.com/FabianaCampanari/SkyWalkerConverter/issues/388#issue-1743052463" />
-
+ p align="center">
+<img src= https://github.com/FabianaCampanari/SkyWalkerConverter/issues/388#issue-1743052463 />
+</p>
 
 #
 
