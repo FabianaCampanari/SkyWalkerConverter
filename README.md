@@ -9,12 +9,7 @@
 #
 
  <p align="center"> < made with love & joy /> 🧡 </p>
-
-#
-
-<p align="center">
-<img src=
-
+ 
 #
 
 <p align="center"> 🚀 https://fabianacampanari.github.io/SkyWalkerConverter/  </p>
@@ -35,10 +30,9 @@
 
 ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
 
-#
+# 
  
- 
-https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/a929536a-a9c5-4fdc-8e3e-9fa45bd53b82
+ <p align="center"> https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/a929536a-a9c5-4fdc-8e3e-9fa45bd53b82 </p>
 
 #
 
