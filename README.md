@@ -32,7 +32,7 @@
 
 # 
  
- <p align="center"> https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/a929536a-a9c5-4fdc-8e3e-9fa45bd53b82 </p>
+ https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/a929536a-a9c5-4fdc-8e3e-9fa45bd53b82 
 
 #
 
