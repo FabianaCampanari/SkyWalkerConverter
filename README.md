@@ -37,7 +37,7 @@
 
 #
  
-<p align="center">  https://github.com/FabianaCampanari/SkyWalkerConverter/issues/388#issue-1743052463 />
+<p align="center">  
 
 
 #
