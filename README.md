@@ -10,7 +10,7 @@
 
 #
 <p align="center">
-<imgsrc="]https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/4e25c462-d8d4-4072-8e4f-217501880afe.png" />
+<imgsrc="" />
 </p>
  
 #
