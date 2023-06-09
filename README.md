@@ -38,7 +38,8 @@
  
  👽
  
- https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/a929536a-a9c5-4fdc-8e3e-9fa45bd53b82 
+
+ 
 #
 
 #####  <p align="center"> ⚖︎ This project is licensed under the Apache License 2.0. </p>
