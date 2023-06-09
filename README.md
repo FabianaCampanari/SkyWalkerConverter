@@ -13,7 +13,7 @@
 <imgs src="" />
 </p>
 
-https://github.com/FabianaCampanari/SkyWalkerConverter/issues/406#issue-1749024622
+
  
 #
 
