@@ -1,4 +1,4 @@
-# <p align="center"> 🪐 SkyWalker Converter </p>
+# <p align="center"> 👽 SkyWalker Converter </p>
 
 ✨ Light Years to Kilometers or Meters Converter. 
 
@@ -35,6 +35,8 @@
 ✨ HTML | CSS | JavaScript | Figma | Photoshop | Illustrator 
 
 # 
+ 
+ 👽
  
 [👽 Gray](https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/8e18a0ed-7791-4671-b18e-9802dcd5f7bd)
   
