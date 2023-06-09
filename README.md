@@ -10,10 +10,10 @@
 
 #
 <p align="center">
-<imgs src="(https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/89e93c46-bc08-4c4c-a27f-5e94b28b191b)" />
+<img src="https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/89e93c46-bc08-4c4c-a27f-5e94b28b191b" />
 </p>
 
-![Skywalker]
+
  
 #
 
