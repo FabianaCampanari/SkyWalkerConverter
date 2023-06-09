@@ -10,7 +10,7 @@
 
 #
 <p align="center">
-<imgs rc="" />
+<imgs src="" />
 </p>
 
 
