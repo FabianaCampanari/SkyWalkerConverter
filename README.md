@@ -38,7 +38,11 @@
  
  <p align="center"> 👽 </p>
  
- ![Gray](https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/95003bc6-a704-4b98-96f1-7873665bc8f9)
+ 
+ <p align="center">
+ <img src="https://github.com/FabianaCampanari/SkyWalkerConverter/assets/113218619/95003bc6-a704-4b98-96f1-7873665bc8f9" />
+ 
+
 
  
 
