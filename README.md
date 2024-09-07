@@ -23,7 +23,7 @@
 </p>
 
 
-[Try and Click here to Choose where in Space you Want go and [Click here]to calculate the distanc(https://fabianacampanari.github.io/SkyWalkerConverter/)
+Try and Click here to Choose where in Space you Want go and [Click here]to calculate the distanc(https://fabianacampanari.github.io/SkyWalkerConverter/)
 
 #
 
