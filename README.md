@@ -8,7 +8,9 @@
  
 ✨ Please fasten your seatbelt and travel safe ! 
 
- <p align="center"> < made with love & joy /> 🧡 </p>
+<br>
+
+### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/48b22684-8c07-4fd4-aea6-4a94f06c71e1) & joy />*** 🪬  </p>
 
 
 <!--
